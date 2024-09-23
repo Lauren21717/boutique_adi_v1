@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [
     '8000-lauren21717-boutiqueadi-q3armlhkfj4.ws.codeinstitute-ide.net',
     'localhost',
     '127.0.0.1',
-    'boutique-ado-ly.herokuapp.com',
+    'boutique-ado-ly-196a7fd400dd.herokuapp.com',
 ]
 
 
